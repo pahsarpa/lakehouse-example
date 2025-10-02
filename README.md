@@ -23,7 +23,8 @@
 
 ## Ссылки на ресурсы
 
-- [Jupyter](https://www.docker.com/products/docker-desktop/)
-- [MinIO UI](https://www.docker.com/products/docker-desktop/)
-- [Spark History Server]()
-- PostgreSQL Iceberg Rest - address: localhost:5434, login: airflow, password: airflow, база airflow;
+- [Jupyter](http://localhost:8888/)
+- [MinIO UI](http://localhost:9077/)
+- [Spark History Server](http://localhost:18080/)
+- [Trino](http://localhost:8084/ui/)
+- PostgreSQL Iceberg Rest - address: localhost:5441, user: iceberg, password: iceberg, database: metastore_db;
