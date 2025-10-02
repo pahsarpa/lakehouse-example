@@ -1,0 +1,11 @@
+pyiceberg[pyarrow,duckdb,pandas]==0.7.1
+boto3==1.35.36
+#delta-spark==3.3.2
+delta-spark==2.4.0
+#pyspark==3.5.6
+pyspark==3.4.0
+jupysql==0.10.5
+duckdb-engine==0.13.1
+openpyxl==3.1.5
+
+
